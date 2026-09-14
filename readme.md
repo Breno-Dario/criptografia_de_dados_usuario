@@ -128,3 +128,12 @@ A aplicação sobe por padrão em `http://localhost:8080`.
 ## Status
 
 Projeto de estudo — em desenvolvimento, sem autenticação/autorização de fato aplicada nos endpoints ainda (todas as rotas estão públicas) e sem tratamento de exceções customizado (erros de negócio lançam `RuntimeException`).
+
+## Fotos 
+<img width="331" height="320" alt="Screenshot_20260911_165218" src="https://github.com/user-attachments/assets/d2c1b494-404f-44b7-99ae-295e430338a1" />
+<img width="329" height="320" alt="Screenshot_20260911_165200" src="https://github.com/user-attachments/assets/1ecfda8d-eaa7-4e1c-a61b-457f1ad075e2" />
+<img width="575" height="45" alt="Screenshot_20260911_164939" src="https://github.com/user-attachments/assets/bf00ed0d-b9d8-4aea-a873-660f1cda6b16" />
+<img width="655" height="86" alt="Screenshot_20260911_164915" src="https://github.com/user-attachments/assets/43cde388-912a-467a-84a7-c949f4b90091" />
+
+
+
